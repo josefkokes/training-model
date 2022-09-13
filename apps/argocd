@@ -4,7 +4,7 @@ metadata:
   name: argocd
   namespace: argo
   labels:
-    cluster: c0
+    cluster: c6
     app: argocd
 spec:
   project: default

@@ -1,1 +1,1 @@
-Přidání dalšího řádku
+Nový řádek.
